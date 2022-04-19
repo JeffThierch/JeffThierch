@@ -47,4 +47,7 @@
 <a href="https://www.linkedin.com/in/jeffthierch/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-jeffthierch-05122A?style=for-the-badge&logo=linkedin" alt="linkedin"/>
 </a>
+ <a href="mailto:jefferson08_alexandre@hotmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-jeffthierch-05122A?style=for-the-badge&logo=gmail" alt="gmail"/>
+</a>
 </p>
