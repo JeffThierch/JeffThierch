@@ -15,20 +15,26 @@
 
 <br><br>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-05122A?style=flat&logo=tailwind-css&logoColor=38B2AC)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Redux](https://img.shields.io/badge/Redux-000000?style=flate&logo=redux&logoColor=white)&nbsp;
+![Redux](https://img.shields.io/badge/Redux-05122A?style=flate&logo=redux&logoColor=593D88)&nbsp;
+![Jest](https://img.shields.io/badge/Jest-05122A?style=flate&logo=jest&logoColor=f44336)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)&nbsp;
-![mySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white)&nbsp;
-![Sequelize](https://img.shields.io/badge/Sequelize-000000?style=flat&logo=Sequelize&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=white)&nbsp;
+![Express](https://img.shields.io/badge/Express.js-05122A?style=flat&logo=express&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=ff6600)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=de0031)&nbsp;
+![Sequelize](https://img.shields.io/badge/Sequelize-05122A?style=flat&logo=Sequelize&logoColor=52B0E7)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma-05122A?style=flat&logo=Prisma&logoColor=white)&nbsp;
+![JWT](https://img.shields.io/badge/JWT-05122A?style=flat&logo=JSON%20web%20tokens&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker&logoColor=52B0E7)&nbsp;
+
 
 <br><br>
 
