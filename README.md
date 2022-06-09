@@ -3,7 +3,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Jeff Thierch</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JeffThierch&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Full Stack Web Developer Student focused on learning the best practices and techniques for writing my code
+- 🔥 Full Stack Web Developer at KS Gestão focused on learning the best practices and techniques for writing my code
 
 - 🔭 I’m currently studying at [Trybe](https://www.betrybe.com/)
 
