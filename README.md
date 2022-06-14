@@ -1,7 +1,7 @@
 <img align="right" height="590em"
  src="https://raw.githubusercontent.com/gist/JeffThierch/9b4e97ae284c3ea5b2074ed72ba01b38/raw/c7976f2bdf021413fac59d5047f256de245b8d70/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Jeff Thierch</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JeffThierch&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JeffThierch&color=blue" alt="Profile views" /> </p>
 
 - 🔥 Full Stack Web Developer at KS Gestão focused on learning the best practices and techniques for writing my code
 
