@@ -9,9 +9,9 @@
 
 - 👨‍💻 All my projects will soon be available at [jeffthierch.github.io](https://jeffthierch.github.io/#/)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, ReactJS, SQL, Node.JS**
+- 💬 Ask me about **JavaScript, Typescript, Python CSS, ReactJS, VueJS, SQL, noSQL, Node.JS**
 
-- ⚡ Surfer in his spare time 🏄🏄
+- ⚡ Surfer in my spare time 🏄🏄
 
 <br><br>
 
