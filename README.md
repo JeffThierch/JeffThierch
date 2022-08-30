@@ -9,7 +9,7 @@
 
 - 👨‍💻 All my projects will soon be available at [jeffthierch.github.io](https://jeffthierch.github.io/#/)
 
-- 💬 Ask me about **JavaScript, Typescript, Python CSS, ReactJS, VueJS, SQL, noSQL, Node.JS**
+- 💬 Ask me about **JavaScript, Typescript, Python, CSS, ReactJS, VueJS, SQL, noSQL, Node.JS**
 
 - ⚡ Surfer in my spare time 🏄🏄
 
@@ -19,17 +19,25 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-05122A?style=flat&logo=tailwind-css&logoColor=38B2AC)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=ffdd54)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vuedotjs)&nbsp;
 ![Redux](https://img.shields.io/badge/Redux-05122A?style=flate&logo=redux&logoColor=593D88)&nbsp;
 ![Jest](https://img.shields.io/badge/Jest-05122A?style=flate&logo=jest&logoColor=f44336)&nbsp;
+![Cypress](https://img.shields.io/badge/Cypress-05122A?style=flate&logo=cypress&logoColor=058a5e)&nbsp;
+![Mocha](https://img.shields.io/badge/Mocha-05122A?style=flate&logo=mocha&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Express](https://img.shields.io/badge/Express.js-05122A?style=flat&logo=express&logoColor=white)&nbsp;
+![AdonisJS](https://img.shields.io/badge/Adonis-05122A?style=flat&logo=adonisjs&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=ff6600)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=de0031)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb&logoColor=white)&nbsp;
+![Redis](https://img.shields.io/badge/Redis-05122A?style=flat&logo=redis&logoColor=de0031)&nbsp;
 ![Sequelize](https://img.shields.io/badge/Sequelize-05122A?style=flat&logo=Sequelize&logoColor=52B0E7)&nbsp;
 ![Prisma](https://img.shields.io/badge/Prisma-05122A?style=flat&logo=Prisma&logoColor=white)&nbsp;
 ![JWT](https://img.shields.io/badge/JWT-05122A?style=flat&logo=JSON%20web%20tokens&logoColor=white)&nbsp;
