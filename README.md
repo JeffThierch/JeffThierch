@@ -16,7 +16,7 @@
 <br><br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=java)&nbsp;
+![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk&logoColor=ED8B00)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=ffdd54)&nbsp;
 ![Swift](https://img.shields.io/badge/Swift-05122A?style=flat&logo=swift&logoColor=FA7343)&nbsp;
