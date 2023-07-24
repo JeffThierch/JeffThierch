@@ -45,8 +45,9 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=JeffThierch&show_icons=true&theme=vision-friendly-dark" alt="jeffthierch's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffThierch&layout=compact&theme=vision-friendly-dark" alt="Jeff Thierch's most languages"/>
+ 
+ ![](https://raw.githubusercontent.com/JeffThierch/stats/master/generated/languages.svg?token=GHSAT0AAAAAACDO2VSYWN5MMDOSZ6RC4RWUZF6WDOA#gh-dark-mode-only)
+ ![](https://raw.githubusercontent.com/JeffThierch/stats/master/generated/overview.svg?token=GHSAT0AAAAAACDO2VSZQDU7TAVT3LPSA6W4ZF6WE4Q#gh-dark-mode-only)
 </p>
 
 <br><br>
