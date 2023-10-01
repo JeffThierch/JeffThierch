@@ -47,7 +47,7 @@
 <p align="left">
 
   <img height=200 align="center" src="https://github-readme-stats-jeffthierch.vercel.app/api?username=jeffthierch&show_icons=true&theme=midnight-purple" />
-  <img height=200 align="center" src="https://github-readme-stats-jeffthierch.vercel.app/api/top-langs/?username=jeffthierch&langs_count=8&layout=compact&theme=midnight-purple" />
+  <img height=200 align="center" src="https://github-readme-stats-jeffthierch.vercel.app/api/top-langs/?username=jeffthierch&langs_count=9&layout=compact&theme=midnight-purple" />
 
 </p>
 
